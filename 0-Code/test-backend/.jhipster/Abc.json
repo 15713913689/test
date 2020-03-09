@@ -1,0 +1,22 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "aaa",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "bbb",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20200309031344",
+    "dto": "no",
+    "searchEngine": false,
+    "service": "serviceClass",
+    "entityTableName": "abc",
+    "jpaMetamodelFiltering": true,
+    "pagination": "pagination"
+}
